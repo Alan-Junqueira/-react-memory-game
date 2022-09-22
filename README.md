@@ -1,7 +1,7 @@
 # Memory Game
 ***
 
-This project were made on class of the course [b7Web](https://b7web.com.br/fullstack/)
+This project were made on class of the course [b7Web](https://b7web.com.br/fullstack/)\
 To see the production project, access the [link](https://react-memory-game-b7web.vercel.app/)
 
 ***
